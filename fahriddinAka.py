@@ -25,7 +25,7 @@ account1_config = {
     'api_id': 28876123,
     'api_hash': '9af5cd6dca1c1c8b4cd33b6b38871f6b',
     'phone_number': '+998936910996',
-    'target_groups': ['https://t.me/+437reeQUyGJkZThi', 'https://t.me/+unOkqXTIz8dlZTUy']
+    'target_groups': ['https://t.me/+olbmfJIa5QJmMjdi']
 }
 
 # 2-AKKAUNT
